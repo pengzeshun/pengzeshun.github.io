@@ -10,10 +10,10 @@ abstract: >-
 cover:          /assets/images/covers/ccaas-vldb25.png
 authors:
   - Weixing Zhou
-  - Yanfeng Zhang*
+  - Yanfeng Zhang#
   - Xinji Zhou
   - Zhiyou Wang
-  - Zeshun Peng*
+  - Zeshun Peng#
   - Yang Ren
   - Sihao Li
   - Huanchen Zhang
