@@ -4,6 +4,7 @@ date:           2025-09-15 00:01:00 +0800
 selected:       false
 pub:            "Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb 2025) (CCF-C)"
 pub_date:       "2025"
+cover:          /assets/images/empty_200x200.png
 authors:
   - Haokai Xu
   - Xiaomei Dong

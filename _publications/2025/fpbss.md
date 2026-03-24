@@ -4,7 +4,7 @@ date:           2025-11-01 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Web Information Systems Engineering (WISE) (CCF-B)"
 pub_date:       "2025"
-cover:          /assets/images/covers/hichain-wise24.png
+cover:          /assets/images/empty_200x200.png
 authors:
   - Zongrui Tang
   - Xiaomei Dong
