@@ -1,17 +1,16 @@
-primary_name: "Zeshun Peng"
+primary_name: "Zeshun Peng (彭泽顺)"
 secondary_name: ""
 navbar_name: "Zeshun Peng"
 
 positions:
-- name: Associate Research Fellow
-- name: Northeastern University, China
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Associate Research Fellow @ Northeastern University (China)
+  logo: /assets/images/badges/neu.jpg  # Logo is optional
 
 email: "pengzs@cse.neu.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: your_gscholar_id  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+#gscholar: your_gscholar_id  # This is an example, replace it with your own Google Scholar ID
+#github: your_github_id
+#twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -21,14 +20,14 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Zeshun Peng received his Ph.D. degree in Computer Science and Technology from 
-    Northeastern University (China) in January 2026, under the supervision of Prof. Ge Yu 
-    and Prof. Yanfeng Zhang. He is currently a Postdoctoral Researcher and Associate Research Fellow at 
-    Northeastern University (China).
+    I received my Ph.D. in Computer Science and Technology from <a href="https://english.neu.edu.cn" target="_blank">Northeastern University (China)</a>
+    in January 2026, advised by Prof. <a href="http://faculty.neu.edu.cn/yuge/zh_CN/index.htm" target="_blank">Ge Yu</a> and Prof. <a href="https://neuzhangyf.github.io" target="_blank">Yanfeng Zhang</a>.
+    I am currently a Postdoctoral Researcher and Associate Research Fellow 
+    at <a href="https://english.neu.edu.cn" target="_blank">Northeastern University (China)</a>.
   </p>
   <p>
-    His research interests include database transaction processing, databases on 
-    emerging hardware, blockchain databases, and cloud-native databases. 
+    My research interests include database transaction processing, databases on 
+    emerging hardware, blockchain databases, and cloud-native databases.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -37,21 +36,21 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
   - name: Northeastern University (China)
-    logo: /assets/images/badges/NEU.png
+    logo: /assets/images/badges/neu.jpg
     position: >-
       School of Computer Science and Engineering <br/>
       Ph.D. in Computer Science and Technology
     date: Sep. 2022 - Jan. 2026
 
   - name: Northeastern University (China)
-    logo: /assets/images/badges/NEU.png
+    logo: /assets/images/badges/neu.jpg
     position: >-
       School of Computer Science and Engineering <br/>
       M.S. in Computer Science and Technology
     date: Sep. 2020 - Jun. 2022
 
   - name: Northeastern University (China)
-    logo: /assets/images/badges/NEU.png
+    logo: /assets/images/badges/neu.jpg
     position: >-
       School of Computer Science and Engineering <br/>
       B.S. in Computer Science and Technology
@@ -60,7 +59,7 @@ education:
 
 experience:
   - name: Northeastern University (China)
-    logo: /assets/images/badges/NEU.png
+    logo: /assets/images/badges/neu.jpg
     position: >-
       Associate Research Fellow <br/>
       School of Computer Science and Engineering
@@ -70,5 +69,9 @@ experience:
 awards:
   - name: 第41届CCF中国数据库学术会议（CCF NDBC 2024）萨师煊优秀学生论文奖
     date: 2024
+  - name: Liaoning Province Outstanding Master's Thesis Award
+    date: 2022
+  - name: Northeastern University Outstanding Master's Thesis Award
+    date: 2022
   - name: CCF-华为胡杨林基金2022年度优秀项目奖
     date: 2022
