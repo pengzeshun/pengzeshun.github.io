@@ -1,6 +1,6 @@
 ---
 title:          "PAT: Towards Transaction Routing with Page Affinity in Shared-Cache Databases"
-date:           2026-07-06 00:01:00 +0800
+date:           2026-05-06 00:01:00 +0800
 selected:       true
 pub:            "IEEE International Conference on Data Engineering (ICDE) (CCF-A)"
 pub_date:       "2026"
