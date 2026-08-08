@@ -21,6 +21,6 @@ authors:
   - Ge Yu
 links:
   Paper: /assets/paper/pat-icde26.pdf
-#  Code: https://github.com/iDC-NEU/PAT
+  Code: https://github.com/tanzq1/PAT
 #  Slides: /assets/slides/pat-icde26.pdf
 ---
