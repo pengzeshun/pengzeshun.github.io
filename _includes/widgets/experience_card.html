@@ -69,6 +69,27 @@
 
                 </div>
 
+                {% if site.data.profile.funded_projects %}
+                <div class="mx-2 mt-3">
+                    <h6>Funded Projects</h6>
+                    <ul class="list small pl-3 mb-1">
+                        {% for item in site.data.profile.funded_projects %}
+                        <li{% unless forloop.last %} class="mb-2"{% endunless %}>
+                            <div class="d-md-flex">
+                                <div class="pr-md-3 flex-grow-1">
+                                    <div><strong>{{ item.title }}</strong></div>
+                                    <div>
+                                        {{ item.funder }}{% if item.grant_number %} ({{ item.grant_number }}){% endif %}{% if item.role %} &middot; {{ item.role }}{% endif %}{% if item.amount %} &middot; {{ item.amount }}{% endif %}
+                                    </div>
+                                </div>
+                                <div class="ml-md-auto mt-1 mt-md-0 no-break"><em>{{ item.date }}</em></div>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+
             </div>
         </div>
     </div>
