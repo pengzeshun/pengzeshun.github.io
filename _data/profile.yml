@@ -67,15 +67,14 @@ experience:
 
 
 funded_projects:
-  - title: Key Technologies for Database Transaction Processing in Agentic OLTP Applications
-    funder: National Natural Science Foundation of China, Young Scientists Fund (Category C)
+  - title: 面向智能体OLTP应用的数据库事务处理关键技术
+    funder: 国家自然科学基金青年科学基金项目（C类） / National Natural Science Foundation of China, Young Scientists Fund (Category C)
     grant_number: No. 62602104
     role: Principal Investigator
-    amount: CNY 300,000
     date: Jan. 2027 - Dec. 2029
 
-  - title: Research on High-Performance Consensus Technologies for Large-Scale Consortium Blockchains
-    funder: The Fundamental Research Funds for the Central Universities
+  - title: 面向大规模联盟区块链的高性能共识技术研究
+    funder: 中央高校基本科研业务专项资金 / The Fundamental Research Funds for the Central Universities
     grant_number: No. N2416003
     role: Principal Investigator
     date: Jan. 2024 - Dec. 2025
