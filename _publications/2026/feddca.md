@@ -4,6 +4,7 @@ date:           2026-11-13 00:01:00 +0800
 selected:       false
 pub:            "IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA) (CCF-C)"
 pub_date:       "2026"
+cover:          /assets/images/covers/feddca-ispa26.png
 authors:
   - Yongcheng Zhu
   - Xiaomei Dong
